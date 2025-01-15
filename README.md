@@ -6,7 +6,7 @@ MLAD-C is designed to develop models for cloud segmentation. In our cloud detect
 
 MLAD-C is available for Download at [Zenodo](https://zenodo.org/records/14267123) (DOI:10.5281/zenodo.14267122).
 
-More detailed information about MLAD-C and the developed cloud segmentation model can be found in our journal article: **TBD**
+More detailed information about MLAD-C and the developed cloud segmentation model can be found in our journal article:
 
 [A Cloud Detection System for UAV Sense and Avoid: Analysis of a Monocular Approach in Simulation and Flight Tests](mdpi.com/2504-446X/9/1/55)
 
